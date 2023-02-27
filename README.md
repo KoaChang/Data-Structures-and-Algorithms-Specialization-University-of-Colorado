@@ -29,8 +29,8 @@ All the source code needed to complete the course is uploaded here.
 
 (add your info here)
 
-- Instagram - [@jamesqquick](https://twitter.com/jamesqquick)
-- Linked In - [James Q Quick](https://jamesqquick.com)
+- Instagram - 
+- Linked In - 
 - Email 
 
 [Back To The Top](#read-me-template)
